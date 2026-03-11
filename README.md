@@ -107,6 +107,10 @@ Feature importance analysis showed that the following features had the highest i
 
 
 ---
+### Sale Price Correlation
+![Sale Price Correlation](outputs/sale_price_correlation.png)
+
+---
 
 ### Distribution of Flat Area
 
