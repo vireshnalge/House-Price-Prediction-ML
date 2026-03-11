@@ -105,11 +105,6 @@ Feature importance analysis showed that the following features had the highest i
 
 ![Sale Price Distribution](outputs/sale_price_distribution.png)
 
----
-
-### Flat Area vs Sale Price
-
-![Flat Area vs Sale Price](outputs/flat_area_vs_sale_price.png)
 
 ---
 
