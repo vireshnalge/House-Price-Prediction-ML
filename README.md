@@ -6,6 +6,29 @@ This project builds a **machine learning model to predict house prices** using v
 Multiple machine learning algorithms were trained and compared to determine the best model for predicting house sale prices.
 
 ---
+house-price-prediction-ml/
+
+data/
+   Raw_Housing_Prices.csv
+
+notebooks/
+   house_price_prediction_model.ipynb
+
+models/
+   house_price_prediction_model.pkl
+
+outputs/
+   sale_price_distribution.png
+   flat_area_vs_sale_price.png
+   feature_importance.png
+   sale_price_outliers.png
+
+src/
+
+README.md
+requirements.txt
+
+---
 
 ## Problem Statement
 House price prediction is an important task in real estate analytics.  
@@ -130,4 +153,3 @@ Feature importance analysis showed that the following features had the highest i
 
 ---
 
-# Project Structure
